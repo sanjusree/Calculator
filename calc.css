@@ -1,0 +1,26 @@
+#clear{
+	width: 130px;
+	color: blue;
+}
+
+.formstyle{
+	width: 170px;
+	height: 230px;
+	margin: auto;
+
+}
+
+input{
+	width: 40px;
+	background-color: #FFB6C1;
+	color: blue;
+}
+
+#answerstyle{
+width: 130px;
+}
+
+h1{
+	text-align: center;
+	color: red;
+}
